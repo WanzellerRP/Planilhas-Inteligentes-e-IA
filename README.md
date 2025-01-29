@@ -13,11 +13,9 @@ seguem abaixo.
 
 ChatGPT：
 
-A planilha contém registros de entradas e saídas financeiras, incluindo categorias, descrição das transações, valores e status de pagamento. Aqui estão alguns insights que você pode extrair:
-
 |  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| Obter percepções | O Cofre do Ansible: Tranque suas Senhas antes que Elas Fujam! |
+| :----: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Obter percepções |A planilha contém registros de entradas e saídas financeiras, incluindo categorias, descrição das transações, valores e status de pagamento. |
 
 
 
